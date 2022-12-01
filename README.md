@@ -84,4 +84,4 @@ Save and quit
 
 `:wq`
 
-- fin
+### Rebuild entire solution and all should be good :) 
